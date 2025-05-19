@@ -1,3 +1,4 @@
+
 let score = 0;
 let timer = 0;
 let found = [];
